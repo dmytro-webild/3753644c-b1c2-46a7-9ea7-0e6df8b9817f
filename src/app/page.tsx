@@ -134,8 +134,6 @@ export default function LandingPage() {
         {
           text: "Discover Our Story",          href: "#"},
       ]}
-      imageSrc="http://img.b2bpic.net/free-photo/restaurant-private-room-with-table-14-persons-wooden-ceiling-brick-walls-fireplace_140725-8452.jpg"
-      imageAlt="Luxurious Asian restaurant interior design"
     />
   </div>
 
